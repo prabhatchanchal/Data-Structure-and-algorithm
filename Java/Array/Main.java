@@ -1,3 +1,16 @@
+/*
+      Author : Prabhat kumar
+      date : 15-jan-2020
+      
+Design, Develop and Implement a menu driven Program for the following Array operations
+a. Creating an Array of N Integer Elements
+b. Display of Array Elements with Suitable Headings
+c. Inserting an Element (ELEM) at a given valid Position (POS)
+d. Deleting an Element at a given valid Position(POS)
+e. Exit
+In addition it is resizeable but not like vector it size gets twice. In this the array size get new user define size
+*/
+
 import java.util.*;
 public class Main
 {
