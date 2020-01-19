@@ -1,7 +1,6 @@
 # Data-Structure-and-algorithm
 # C++
-![alt text][logo]
-[logo]:https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fc--logo-icon-0.png&f=1&nofb=1"Logo Title Text 2"
+![alt text](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fc--logo-icon-0.png&f=1&nofb=1 "C++")
 
 
 | S.no        | Topic            | Date  |
