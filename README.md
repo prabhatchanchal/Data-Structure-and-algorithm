@@ -1,4 +1,10 @@
 # Data-Structure-and-algorithm
+# Python <img src="http://pluspng.com/img-png/python-logo-png--200.png" width="40" height="40" />
+
+
+
+
+
 # C++ <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fc--logo-icon-0.png&f=1&nofb=1" width="40" height="40" />
 
 
