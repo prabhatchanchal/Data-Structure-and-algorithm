@@ -1,6 +1,7 @@
 # Data-Structure-and-algorithm
-# Python <img src="http://pluspng.com/img-png/python-logo-png--200.png" width="40" height="40" />
-
+# Python <img src="http://pluspng.com/img-png/python-logo-png--200.png" width="60" height="60" />
+| S.no        | Topic            | Date  |
+| ------------- |:-------------:| -----:|
 
 
 
