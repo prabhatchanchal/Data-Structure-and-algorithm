@@ -2,6 +2,8 @@
 # Python <img src="http://pluspng.com/img-png/python-logo-png--200.png" width="60" height="60" />
 | S.no        | Topic            | Date  |
 | ------------- |:-------------:| -----:|
+| 1   | [`Array(Dynamic)`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/Python/Array.py) | 28-jan-2020 |
+
 
 
 
