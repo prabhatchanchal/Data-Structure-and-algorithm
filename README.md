@@ -4,6 +4,7 @@
 | ------------- |:-------------:| -----:|
 | 1   | [`Array(Dynamic)`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/Python/Array.py) | 28-jan-2020 |
 | 2 | [`Stack using list`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/tree/master/Python/stack.py)| 28-jan-2020|
+| 3 | [`Simple Queue`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/C%2B%2B/queue.cpp)|05-feb-2020|
 
 
 
