@@ -4,7 +4,7 @@
 | ------------- |:-------------:| -----:|
 | 1   | [`Array(Dynamic)`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/Python/Array.py) | 28-jan-2020 |
 | 2 | [`Stack using list`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/tree/master/Python/stack.py)| 28-jan-2020|
-| 3 | [`Simple Queue`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/C%2B%2B/queue.cpp)|05-feb-2020|
+
 
 
 
@@ -18,7 +18,7 @@
 | ------------- |:-------------:| -----:|
 | 1   | [`Array(Dynamic)`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/C%2B%2B/Array.cpp) | 15-jan-2020 |
 | 2   | [`Stacks using Array)`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/C%2B%2B/Stack.cpp) | 25-jan-2020 |
-
+| 3 | [`Simple Queue`](https://github.com/prabhatchanchal/Data-Structure-and-algorithm/blob/master/C%2B%2B/queue.cpp)|05-feb-2020|
 ---
 
 # Java <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fzh%2F8%2F88%2FJava_logo.png&f=1&nofb=1" width="50" height="50" />
